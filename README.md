@@ -23,6 +23,9 @@ The text blocks contain discussion of the analysis and also describe the code bl
 Thank You!
 
 pandas 2.3.3
+
 python 3.11.13
+
 jupyter client 8.6.3
+
 IDE: JetBrains s.r.o PyCharm 2025.2.3
