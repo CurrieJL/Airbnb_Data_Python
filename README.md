@@ -14,6 +14,7 @@ This analysis explores the profitability of entering the Austin market for Airbn
 6. Which areas have the most demand?
 7. Which dates have the most demand for all listing types?
 8. Which dates have the most demand per listing type?
+
 Note: This analysis script can be converted to run as a function with the necessary outputs saved as files or added to a report file or sent to database tables to catch the data. This would eliminate repetitive code blocks. The advantage of showing each section is for step-by-step presentations and script readability. The code for answering each question can be discussed as needed along with the answers to the business question. Another employee can view the values and calculations to be assured the outputs are correct.
 The text blocks contain discussion of the analysis and also describe the code blocks. The code block descriptions are added so that readers who are interested in the code-based processes will have this information for reference.
 Thank You!
